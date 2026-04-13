@@ -1,0 +1,2 @@
+# BMK
+Ovoz berish platformasi
